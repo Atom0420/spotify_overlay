@@ -1,0 +1,31 @@
+{
+  "snapshot_utc": "2026-11-06T02:04:34.135508+00:00",
+  "checkpoint": "latest local Python utility source",
+  "source_workspaces_modified": false,
+  "files": [
+    {
+      "path": "SpotifyBOLD+Control.py",
+      "bytes": 15445,
+      "sha256": "0e08ec651a98b01a8b856cc9512fc23718b5df93c68ab2bd27b15c0311c9458c",
+      "original_sha256": "0e08ec651a98b01a8b856cc9512fc23718b5df93c68ab2bd27b15c0311c9458c",
+      "source": "SpotifyBOLD+Control.py",
+      "content_changed": false
+    },
+    {
+      "path": "spotify_overlay_marquee_title_aligned.py",
+      "bytes": 32891,
+      "sha256": "e6720f2733fb61cb0d321db5ad40596c6a72b6b87fdde05bb1667d9828be4002",
+      "original_sha256": "e6720f2733fb61cb0d321db5ad40596c6a72b6b87fdde05bb1667d9828be4002",
+      "source": "spotify_overlay_marquee_title_aligned.py",
+      "content_changed": false
+    },
+    {
+      "path": "spotify_overlay_marquee_title_pixel_aligned.py",
+      "bytes": 33316,
+      "sha256": "fd9fc5d1145e9b645ace5c6dbf833d577d41c14437761bf419979093277e1848",
+      "original_sha256": "fd9fc5d1145e9b645ace5c6dbf833d577d41c14437761bf419979093277e1848",
+      "source": "spotify_overlay_marquee_title_pixel_aligned.py",
+      "content_changed": false
+    }
+  ]
+}
